@@ -1,9 +1,9 @@
-package net.itinajero.baraja
+package net.itinajero.apps.baraja
 
-import net.itinajero.baraja.cartas.Carta
-import net.itinajero.baraja.cartas.CartaFigura
-import net.itinajero.baraja.cartas.CartaJoker
-import net.itinajero.baraja.cartas.CartaNumeral
+import net.itinajero.apps.baraja.cartas.Carta
+import net.itinajero.apps.baraja.cartas.CartaFigura
+import net.itinajero.apps.baraja.cartas.CartaJoker
+import net.itinajero.apps.baraja.cartas.CartaNumeral
 
 class BarajaInglesa(){
 

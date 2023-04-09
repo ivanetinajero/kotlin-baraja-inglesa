@@ -1,6 +1,6 @@
-package net.itinajero.baraja.cartas
+package net.itinajero.apps.baraja.cartas
 
-import net.itinajero.baraja.Palo
+import net.itinajero.apps.baraja.Palo
 
 open abstract class CartaConPalo(private var palo: Palo) : Carta() {
 

@@ -1,4 +1,4 @@
-package net.itinajero.baraja.cartas
+package net.itinajero.apps.baraja.cartas
 
 class CartaJoker(private var aColor: Boolean) : Carta() {
 

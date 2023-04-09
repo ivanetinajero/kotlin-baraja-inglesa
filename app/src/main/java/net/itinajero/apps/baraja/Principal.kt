@@ -1,4 +1,4 @@
-package net.itinajero.baraja
+package net.itinajero.apps.baraja
 
 fun main(){
     val baraja = BarajaInglesa()

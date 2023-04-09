@@ -1,6 +1,6 @@
-package net.itinajero.baraja.cartas
+package net.itinajero.apps.baraja.cartas
 
-import net.itinajero.baraja.Palo
+import net.itinajero.apps.baraja.Palo
 
 class CartaFigura(private var letra: String, private var palo: Palo) : CartaConPalo(palo) {
 
